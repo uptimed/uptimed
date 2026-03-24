@@ -7,9 +7,7 @@
   </p>
   <p align="center">
     <a href="https://github.com/uptimed/uptimed/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" /></a>
-    <a href="https://github.com/uptimed/uptimed/releases"><img src="https://img.shields.io/github/v/release/uptimed/uptimed" alt="Release" /></a>
-    <a href="https://github.com/uptimed/uptimed/actions"><img src="https://img.shields.io/github/actions/workflow/status/uptimed/uptimed/ci.yml?branch=main" alt="CI" /></a>
-    <a href="https://uptimed.dev"><img src="https://img.shields.io/badge/website-uptimed.dev-green" alt="Website" /></a>
+    <a href="https://github.com/uptimed/uptimed"><img src="https://img.shields.io/github/stars/uptimed/uptimed?style=social" alt="Stars" /></a>
   </p>
   <p align="center">
     <a href="./README.md">English</a> · <a href="./README.zh-CN.md">中文</a>
